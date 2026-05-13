@@ -1,0 +1,16 @@
+# Binary
+cpu_cache_simulator
+
+# Build artifacts
+/build/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+
+.TODO
